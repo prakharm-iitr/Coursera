@@ -1,0 +1,12 @@
+Final project for google IT automation with Python.
+The project's task was to build scripts to automate the following tasks:
+
+Given a bunch of images and descriptions of each of the new products, the script will:
+
+    1. Upload the new products to an online store. Images and descriptions should be uploaded separately, using two different web endpoints.
+    2. Send an automated pdf report back to the supplier, letting them know what was imported.
+
+Also, for constantly monitoring the health of system:
+
+    1. Run a script on the web server to monitor system health.
+    2. Send an email with an alert if the server is ever unhealthy.
